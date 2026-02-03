@@ -1,6 +1,4 @@
 ## Hi there 👋
-# Yelizaveta_Nazarova
-My repository
 # About me 
 Hello, my name is Yelizaveta Nazarova but i go for **Liza**. I am from Kazakhstan and my major is Economics. I do a combined program and i will graduate at spring 2027. 
 ## My career goals 
